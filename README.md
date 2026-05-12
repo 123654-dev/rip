@@ -1,7 +1,3 @@
-# Tauri + SvelteKit + TypeScript
+# RIP - the hottest texture ripper.
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+Use it to extract distorted rectangle-shaped textures from any image. Or multiple images. Pack them into a neat atlas and use them in your favorite game engine, Blender, or however you please.
